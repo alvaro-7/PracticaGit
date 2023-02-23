@@ -1,1 +1,1 @@
-Linea conflicto
+Linea 2
